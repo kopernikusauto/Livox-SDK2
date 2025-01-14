@@ -33,7 +33,7 @@
 
 #define LIVOX_LIDAR_SDK_MAJOR_VERSION       1
 #define LIVOX_LIDAR_SDK_MINOR_VERSION       2
-#define LIVOX_LIDAR_SDK_PATCH_VERSION       5
+#define LIVOX_LIDAR_SDK_PATCH_VERSION       6
 
 #define kBroadcastCodeSize 16
 

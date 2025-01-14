@@ -1,6 +1,11 @@
 # Changelog
 
 All notable changes to Livox-SDK2 will be documentd in this file.
+## [1.2.6]
+### Changed
+
+- Avoid discovery when connecting to lidars
+
 ## [1.2.5]
 ### Added
 
